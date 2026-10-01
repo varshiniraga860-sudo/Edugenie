@@ -1,0 +1,6 @@
+{
+  "name": "EduGenie – AI Learning Assistant",
+  "description": "An intelligent AI-powered educational platform helping students master academic topics with simplified explanations, interactive study notes, MCQ quizzes, document summarization, and an academic AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
